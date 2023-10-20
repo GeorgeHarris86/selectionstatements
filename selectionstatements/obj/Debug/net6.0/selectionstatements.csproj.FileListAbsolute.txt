@@ -1,0 +1,14 @@
+C:\Users\geoha\repos\selectionstatements\selectionstatements\obj\Debug\net6.0\selectionstatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geoha\repos\selectionstatements\selectionstatements\obj\Debug\net6.0\selectionstatements.AssemblyInfoInputs.cache
+C:\Users\geoha\repos\selectionstatements\selectionstatements\obj\Debug\net6.0\selectionstatements.AssemblyInfo.cs
+C:\Users\geoha\repos\selectionstatements\selectionstatements\obj\Debug\net6.0\selectionstatements.csproj.CoreCompileInputs.cache
+C:\Users\geoha\repos\selectionstatements\selectionstatements\bin\Debug\net6.0\selectionstatements.exe
+C:\Users\geoha\repos\selectionstatements\selectionstatements\bin\Debug\net6.0\selectionstatements.deps.json
+C:\Users\geoha\repos\selectionstatements\selectionstatements\bin\Debug\net6.0\selectionstatements.runtimeconfig.json
+C:\Users\geoha\repos\selectionstatements\selectionstatements\bin\Debug\net6.0\selectionstatements.dll
+C:\Users\geoha\repos\selectionstatements\selectionstatements\bin\Debug\net6.0\selectionstatements.pdb
+C:\Users\geoha\repos\selectionstatements\selectionstatements\obj\Debug\net6.0\selectionstatements.dll
+C:\Users\geoha\repos\selectionstatements\selectionstatements\obj\Debug\net6.0\refint\selectionstatements.dll
+C:\Users\geoha\repos\selectionstatements\selectionstatements\obj\Debug\net6.0\selectionstatements.pdb
+C:\Users\geoha\repos\selectionstatements\selectionstatements\obj\Debug\net6.0\selectionstatements.genruntimeconfig.cache
+C:\Users\geoha\repos\selectionstatements\selectionstatements\obj\Debug\net6.0\ref\selectionstatements.dll
